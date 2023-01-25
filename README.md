@@ -1,12 +1,10 @@
-#TicTacToe
+# TicTacToe
 This is my TicTacToe application as a project work for Introduction to programming course.
 
 ##To compile and run
-´´´
-cd tictactoe/src
-javac game/TicTacToe.java
-java game/TicTacToe
-´´´
+`cd tictactoe/src`
+`javac game/TicTacToe.java`
+`java game/TicTacToe`
 
 ##User guide
 When the user boots up the application, it will ask a number for the size of the gameboard from the user.

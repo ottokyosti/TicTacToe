@@ -1,12 +1,14 @@
 # TicTacToe
 This is my TicTacToe application as a project work for Introduction to programming course.
 
-##To compile and run
-`cd tictactoe/src`
-`javac game/TicTacToe.java`
-`java game/TicTacToe`
+## To compile and run
+```
+cd tictactoe/src
+javac game/TicTacToe.java
+java game/TicTacToe
+```
 
-##User guide
+## User guide
 When the user boots up the application, it will ask a number for the size of the gameboard from the user.
 Only one number will be asked because the gameboard will be a rectangle. The size is fully dynamic meaning
 user can put any number he/she wants on it (please note that from certain point onwards the size of the 
@@ -19,5 +21,5 @@ has won or the game has ended in a tie, a message box will appear and display th
 "ok" button will close the window and the program. The user can also press the window close button (X) on the 
 top right of the window to close the program.
 
-##The screen cast of the project
+## The screen cast of the project
 (Link to the video)[https://youtu.be/JUtCH_cUx44]

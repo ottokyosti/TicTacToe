@@ -22,4 +22,4 @@ has won or the game has ended in a tie, a message box will appear and display th
 top right of the window to close the program.
 
 ## The screen cast of the project
-(Link to the video)[https://youtu.be/JUtCH_cUx44]
+[Link to the video](https://youtu.be/JUtCH_cUx44)
